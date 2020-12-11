@@ -1,0 +1,186 @@
+.secA{
+ text-align: center;
+    background: linear-gradient(red 0%, blue 100%);
+  	background-repeat:no-repeat;
+    height: 900px;
+  width:100%;
+  text-align: center;
+}
+  #secB{
+   background: linear-gradient(aqua 0%, pink 60%);
+     font-size: 70px;
+    color:#00C853;
+  font-family: Merriweather, serif;
+    text-align: center;
+  }
+ #secC{
+   background: linear-gradient(green 0%, brown 60%);
+     font-size: 30px;
+    color:#00C853;
+     font-family: Merriweather, serif;
+ 
+    text-align: center;
+  }
+#secD{
+   background: linear-gradient(yellow 0%, orange 60%);
+     font-size: 30px;
+    color:#00C853;
+     font-family: Merriweather, serif;
+ 
+    text-align: center;}
+#secE{
+   background: linear-gradient(purple 0%, grey 60%);
+     font-size: 30px;
+    color:#00C853;
+     font-family: Merriweather, serif;
+ 
+    text-align: center;}
+#secF{
+   background: linear-gradient(pink 0%, silver 60%);
+     font-size: 30px;
+    color:#00C853;
+     font-family: Merriweather, serif;
+ 
+    text-align: center;}
+#secG{
+   background: linear-gradient(olive 0%, darkgreen 60%);
+     font-size: 30px;
+    color:#00C853;
+     font-family: Merriweather, serif;
+ 
+    text-align: center;}
+#secH{
+    background: linear-gradient(aliceblue 0%, purple 60%);
+     text-align: center;
+}
+.menu{
+            top: 0px;
+    margin-top: 0;
+    background-color: white;
+    position: fixed;
+   font-family: 'Luckiest Guy', cursive;
+    z-index:10;
+    width: 100%;
+    
+    }
+.button{
+    font-size: 30px;
+    
+    color: darkblue;
+    font-style: normal;
+    border-style:solid;
+    border-width: 10px;
+    border-color: forestgreen;
+}
+a:hover{
+    color:deeppink;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.list{
+   display: inline;
+    padding-top: 10;
+    padding-left: 10;
+    padding-right: 10;
+    list-style: none;
+    color:chartreuse;
+    font-size: 20px;
+cursor: pointer;
+    
+}
+.list:hover{
+    font-size: 25px;
+    color: crimson;
+    text-decoration: underline;
+}
+
+.line {
+   height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+  
+ 
+#IMG{
+     margin-top: 100px;
+  width: 600px;
+  text-align:centre;
+  border-radius: 10%;
+  border-width: 20px;
+  border-style:solid;
+  padding: 10px;
+  border-color: darkgoldenrod;
+    height: 400px;
+    
+    
+}
+  
+img{
+  margin-top: 70px;
+  width: 400px;
+  text-align:centre;
+  border-radius: 70%;
+  border-width: 5px;
+  border-style:solid;
+  padding: 10px;
+  border-color: pink;
+    height: 500px;
+}
+h1{
+  color: red;
+  text-shadow: 2px 2px brown;
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  font-size: 50px;
+  
+}
+img{
+    transition: transform .2s;
+}
+img:hover{ 
+    transform: scale(0.9);
+}
+h2{
+  font-family: 'Kaushan Script', cursive;
+  font-size:50px;
+  color: aqua;
+  font-style: bold;
+  
+}
+body{
+  text-align: center;
+}
+
+
+#SecH iframe{
+    width: 100%;
+}
+a{
+  text-shadow: 2px 2px grey;
+    text-decoration: none;
+    color: hotpink;
+}
+#secF a{
+    color: mediumseagreen;
+    text-shadow: none;
+    text-decoration: none;
+    background-color: navajowhite;
+    
+    
+    
+}
+#secF a:hover{
+    font-size: 25px;
+    text-decoration: underline;
+    color: darkblue;
+}
+.contact {
+    display: inline;}
+.contact a{
+    color: black;
+    display: inline;
+    font-size: 20px;
+    text-shadow: none;
